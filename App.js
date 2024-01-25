@@ -15,7 +15,7 @@ export default function App() {
   }, []);
   return (
     <View style={styles.container}>
-      <Text>ME DUELEN LAS TETORRAS!</Text>
+      <Text></Text>
       <StatusBar style="auto" />
     </View>
   );
